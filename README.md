@@ -15,4 +15,5 @@ Week 1: HTML Text Formating (Unit 2)
 Week 1: HTML Capabilities (Unit 3)
 -HTML can be debugged in browser developer tools which reveals a website's code and performance.
 -HTML attributes are the extra functionality an element can have. Some can work with multiple elements not all.
--There are 4 main attributes
+-There are 4 main attributes: 1- Classes 2- ID's 3- Language 4- Direction
+- There are extra attributes ensuring all users, including people living with disabilites, access the website such as ARIA Roles.
