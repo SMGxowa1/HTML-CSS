@@ -61,3 +61,23 @@
 -5.Section: this element marks sections of the page content and dividing topics in a webpage.
 -6.Aside: this element is for content on the side of the webpage e.g. sidebar information but not part of the main content.
 
+## Week 3: HTML Working with Forms and Interactive Elements (unit 9)
+-Forms are used for different cases, in HTML they have a built-in power of the browser that detects forms.
+-By using form elements, this allows one to use forms across all devices and hardware.
+-A form is created by the form element or tags
+-They consists of a fields, input, label and a button for submission.
+-Input elements don't only take text but numbers and emails too by addinf the type attribute.
+-The inputs contain placeholders that inform the user what to type in the textbox.
+-A value attribute also ensures that the correct value that is wanted on the form is typed in.
+-Depending on the type of attribute use, forms can have various inputs such as radio buttons and lists.
+
+## Week 3: Organizing Tabular Information in HTML (unit 10)
+-When HTML content is in a form of a table it is best to use the table element.
+-HTML tables makes the content accessible,reusable and findable.
+-Tables can also be styled using CSS for layout for different screen sizes.
+-There are several elements that are used in an HTML table: TH, TR and TD
+-Similarly to images, tables can also contain captions.
+
+
+
+
