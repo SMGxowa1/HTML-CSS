@@ -78,6 +78,18 @@
 -There are several elements that are used in an HTML table: TH, TR and TD
 -Similarly to images, tables can also contain captions.
 
+## Week 3: Introduction To CSS(unit 1)
+-CSS is a style sheet for HTML web pages.
+-CSS has a selector and declaration block.
+-Selector is specific for a pattern HTML, if pattern matches CSS code in declaration blocks is applied.
+-Cascading part is when multiple styles are applied to the same pattern.
+-Each style has two parts: property and value.
+-There is an element selector (e.g. select all paragraphs on page)
+-There is a class selector (e.g specific to an element)
+-The same style can be applied to different selectors (group selectors)
+-With a descendant selector we can select list items that are descendants of either an ordered or unordered list.
+-Code can also be commented out on CSS to see the effect of removing styles.
+
 
 
 
