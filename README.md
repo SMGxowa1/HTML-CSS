@@ -90,6 +90,41 @@
 -With a descendant selector we can select list items that are descendants of either an ordered or unordered list.
 -Code can also be commented out on CSS to see the effect of removing styles.
 
+## Week 3: Adding CSS colors(unit 2)
+-CSS can also write comments just like HTML.
+-The first selector is the element selector in CSS that selects all elements marked
+-CSS can detect a class by writing a fullstop and opening brackets to declare code
+-Style declarations can be placed in any order.
+-Elements with similar styles can be grouped together to apply the same style.
+-Other elements acts as descendants and can be selected as well.
+
+
+## Week 4: CSS Images and Colors(unit 3)
+-In CSS choosing a color pallette is important to keep your styling similar
+-Colors are given in hex codes in CSS where you can specify a color one needs.
+-The types of color formats are RGB, HSL and HSLA
+-Changing background colors and images are possible with the background color and image properties.
+-Images are found in different formats on the web: PNG, GIF & JPEG all serving different purposes.
+-Background images contain a url value which specifies the location of the image.
+
+## Week 4: CSS Boxes, Types and Sizes(unit 4)
+-Fonts and spacing play a huge role in making HTML pages attractive.
+-There are different stack for fonts but mainly Serif and Sans serif are popular.
+-Fonts are applied on the CSS sheet to make things decent and readable.
+-We are also able to change the font size and overide the default sizes of the browser.
+-There is absolute sizing(pixels,points), remain the same regardless of screen size.
+-Relative sizing can adjust based on the page size. (rem)
+-The box model allows us to adjust the height and width of the content inside margins, paddings and borders.
+
+## Week 4: Advanced CSS Properties and Concepts(unit 5)
+-Typically links are blue and purple once you click on them, with CSS you can style them to default colors.
+-We do this by targetting the a tag and changing its color.
+-In CSS a concept called inheritance plays a huge role by inheriting styles of previously declared elements.
+-When debugging CSS it is important to look at the selectors and declarations made are carefully applied.
+
+
+
+
 
 
 
